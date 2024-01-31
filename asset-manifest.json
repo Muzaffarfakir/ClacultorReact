@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ClacultorReact/static/css/main.fb01f0c6.css",
+    "main.js": "/ClacultorReact/static/js/main.72683491.js",
+    "index.html": "/ClacultorReact/index.html",
+    "main.fb01f0c6.css.map": "/ClacultorReact/static/css/main.fb01f0c6.css.map",
+    "main.72683491.js.map": "/ClacultorReact/static/js/main.72683491.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb01f0c6.css",
+    "static/js/main.72683491.js"
+  ]
+}
