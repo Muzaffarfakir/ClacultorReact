@@ -55,7 +55,7 @@ export default function App() {
 
     }
     function Ac(e) {
-        dispatch({ type: "AC", ac: state.ac = "" })
+        dispatch({ type: "AC", ac: state.ac = "0" })
               window.location.reload();
 
 
